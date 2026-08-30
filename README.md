@@ -1,2 +1,13 @@
-# oled-device-capacitance-talk
-TCL CSOT internal literature share: OLED device capacitance (C-V, C-f, negative capacitance). PPT + notes.
+# OLED 器件电容 · 文献分享
+
+TCL 华星光电内部博士文献分享：从几何电容、C–V / C–f 到负电容机制。
+
+- 17 页，16:9
+- 建议时长：讲解 35 分钟 + 讨论 10 分钟
+- 不讲像素存储电容 Cst，只讲 OLED 叠层本身的动态电容 C_oled
+
+## 下载
+
+仓库里有讲解手稿 `NOTES.md`。PPT / PDF 请用 Grok 对话里的附件（ZIP 里含 pptx + pdf + 手稿）。
+
+仓库为私有，仅供内部使用。
